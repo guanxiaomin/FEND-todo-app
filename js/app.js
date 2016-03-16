@@ -9,4 +9,6 @@ $(function () {
 
 	// kick things off by creating the `App`
 	new app.AppView();
+  // var todo1 = new app.Todo();
+  // console.log(JSON.stringify(todo1));
 });
